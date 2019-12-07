@@ -13,3 +13,4 @@ d8=15
 2. jika anda ingin source code lebih silahkan hubungin saya 
 -membaca servo dan menyimpan data kedalam database
 -membaca suhu dan kelembapan  menyimpan data kedalam tadabase
+bonus monitoring menggunakan website
