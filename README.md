@@ -12,5 +12,6 @@ d8=15
 3.data_sensor.ino (menyimpan data sensor jarak kedalam database yang di kirim dari arduino)
 2. jika anda ingin source code lebih silahkan hubungin saya 
 -membaca servo dan menyimpan data kedalam database
--membaca suhu dan kelembapan  menyimpan data kedalam tadabase
+-membaca suhu dan kelembapan  menyimpan data kedalam data
+base
 bonus monitoring menggunakan website
